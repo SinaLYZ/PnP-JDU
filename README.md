@@ -1,4 +1,4 @@
-# PnP-JDU
+# Joint Hyperspectral Image Deconvolution and Unmixing via Plug-and-Play Priors
 
 Plug-and-Play Joint Deblurring and Unmixing for Hyperspectral Imaging.
 
@@ -72,4 +72,5 @@ If you use this code in your work, please cite:
   year={2026},
   publisher={MDPI}
 }
+
 ```
