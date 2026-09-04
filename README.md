@@ -62,11 +62,14 @@ This project is provided for research and educational use. Please cite the paper
 If you use this code in your work, please cite:
 
 ```bibtex
-@article{lyz2026pnpjdu,
-  title={Plug-and-Play Joint Deblurring and Unmixing for Hyperspectral Imaging},
-  author={Your Name},
+@article{layazali2026joint,
+  title={Joint Hyperspectral Image Deconvolution and Unmixing via Plug-and-Play Priors},
+  author={Layazali, Sina and Preza, Chrysanthe},
   journal={Remote Sensing},
+  volume={18},
+  number={13},
+  pages={2066},
   year={2026},
-  doi={10.3390/rs18132066}
+  publisher={MDPI}
 }
 ```
